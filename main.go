@@ -1,1 +1,2 @@
-funk main ()
+package main
+funk main () {}
